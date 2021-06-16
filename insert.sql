@@ -6,7 +6,7 @@ insert into publisher (name, country) values ('Del Rey','UK');
 insert into publisher (name, country) values ('Vintage','UK');
 
 insert into subjects (name) values ('C');
-insert into subjects (name) values ('Unix');
+insert into subjects (name) values ('UNIX');
 insert into subjects (name) values ('Technology');
 insert into subjects (name) values ('Go');
 insert into subjects (name) values ('Science Fiction');
